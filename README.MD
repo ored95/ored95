@@ -14,14 +14,14 @@
 
 <h2>Knowledge</h2>
 
-<style>
+<!-- <style>
 .shades-of-purple{
   filter: invert(70%) sepia(14%) saturate(3032%) hue-rotate(204deg) brightness(96%) contrast(87%);
 }
 .shades-of-purple:hover{
   filter: invert(89%) sepia(13%) saturate(3138%) hue-rotate(337deg) brightness(112%) contrast(91%);
 }
-</style>
+</style> -->
 
 |<img align="left" width="45px" src="src/knowledge/math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/further-math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/algorithm.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/data-structure.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/knowledge/software-development.svg" class="shades-of-purple"/>
 |:----:|:----:|:----:|:----:|:----:|
