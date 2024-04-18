@@ -23,9 +23,9 @@
 }
 </style>
 
-|<img align="left" width="45px" src="src/math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/further-math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/algorithm.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/data-structure.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/software-development.svg" class="shades-of-purple"/>
+|<img align="left" width="45px" src="src/knowledge/math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/further-math.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/algorithm.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="src/knowledge/data-structure.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/knowledge/software-development.svg" class="shades-of-purple"/>
 |:----:|:----:|:----:|:----:|:----:|
-|<img align="left" width="45px" src="src/machine-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/deep-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/artificial-intelligence.svg" class="shades-of-purple"/>||||
+|<img align="left" width="45px" src="src/knowledge/machine-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/knowledge/deep-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="src/knowledge/artificial-intelligence.svg" class="shades-of-purple"/>||||
 
 <p align="center"> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ored95&show_icons=true&theme=algolia" alt="ored95" />
