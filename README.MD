@@ -10,7 +10,9 @@
 <img width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ored95&theme=algolia&count_private=true&hide=html&layout=compact" />
 
 <h2>CodLang</h2>
-<img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height="40px"> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+
+|<img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height="40px">|<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|
+|:----:|:----:|:----:|
 
 <h2>Knowledge</h2>
 
