@@ -9,12 +9,12 @@
       
 <img width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ored95&theme=algolia&count_private=true&hide=html&layout=compact" />
 
-<h2>CodLang</h2>
+<h3>CodLang</h3>
 
-|<img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height="40px">|<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|
-|:----:|:----:|:----:|
+|<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px" height="40px">|<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|<img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" width="40px">|<img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" width="40px" height="40px" alt="Lisp">|<img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/220px-1C_Company_logo.svg.png" width="55px">
+|:----:|:----:|:----:|:----:|:----:|:----:|
 
-<h2>Knowledge</h2>
+<h3>Knowledge</h3>
 
 <!-- <style>
 .shades-of-purple{
@@ -33,7 +33,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ored95&show_icons=true&theme=algolia" alt="ored95" />
 </p>
 
-<h2>Natural languages</h2>
+<h3>Natural languages</h3>
 
 
 <p align="center">
