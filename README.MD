@@ -4,7 +4,7 @@
 
 - ⚡ Currently working at Bauman Moscow State Technical University
 - ⚡ Currently working as 1C programmer
-- 💡  Experience in Data Structures, Algorithms, Databases, SQL, AI, ML, Fuzzy Logic...
+- 💡  Experience in Modeling, Data Structures, Algorithms, Databases, SQL, AI, ML, Fuzzy Logic...
 - ⚙️ Interested in System Design and Cyber Security Networking
       
 <img width="360px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ored95&theme=algolia&count_private=true&hide=html&layout=compact" />
