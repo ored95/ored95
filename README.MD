@@ -33,7 +33,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ored95&show_icons=true&theme=algolia" alt="ored95" />
 </p>
 
-<h3>#Natural languages</h3>
+<h3># Natural languages</h3>
 <p align="center">
 
 |<a title="C2"><img align="center" width="45px" src="src/lang/vi.png"/></a>|<a title="С1"><img align="center" width="45px" src="src/lang/ru.png"/></a>|<a title="С1"><img align="center" width="45px" src="src/lang/en.png"/></a>|
