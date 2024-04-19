@@ -36,7 +36,7 @@
 <h3>#Natural languages</h3>
 <p align="center">
 
-|<a title="C2"><img align="left" width="45px" src="src/lang/vi.png"/></a>|<a title="С1"><img align="left" width="45px" src="src/lang/ru.png"/></a>|<a title="С1"><img align="left" width="45px" src="src/lang/en.png"/></a>|
+|<a title="C2"><img align="center" width="45px" src="src/lang/vi.png"/></a>|<a title="С1"><img align="center" width="45px" src="src/lang/ru.png"/></a>|<a title="С1"><img align="center" width="45px" src="src/lang/en.png"/></a>|
 |:----:|:----:|:----:|
 
 </p>
