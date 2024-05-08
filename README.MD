@@ -1,6 +1,10 @@
 ### Hi, I'm Alex Nguyen  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank">
-      
+
 ## 💬 About me
+
+<img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ored95&theme=algolia" />
+
+<br />
 
 - ⚡ Currently working at Bauman Moscow State Technical University
 - ⚡ Currently working as 1C programmer
@@ -40,3 +44,4 @@
 |:----:|:----:|:----:|
 
 </p>
+
