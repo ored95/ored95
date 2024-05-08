@@ -1,12 +1,10 @@
-### Hi, I'm Alex Nguyen  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank">
-
-## 💬 About me
+### Hi, I'm Alex Nguyen <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank">
 
 <img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ored95&theme=algolia" />
 
-<br />
+### 💬 About me
 
-- ⚡ Currently working at Bauman Moscow State Technical University
+- ⚡ Currently working at [**Bauman Moscow State Technical University**](https://bmstu.ru/)
 - ⚡ Currently working as 1C programmer
 - 💡  Experience in Modeling, Data Structures, Algorithms, Databases, SQL, AI, ML, Fuzzy Logic...
 - ⚙️ Interested in System Design and Cyber Security Networking
@@ -44,4 +42,3 @@
 |:----:|:----:|:----:|
 
 </p>
-
