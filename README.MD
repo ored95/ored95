@@ -15,7 +15,7 @@
 
 |<img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px" height="40px">|<img align="center" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" width="40px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" width="40px" height="40px" alt="Lisp">|
 |:----:|:----:|:----:|:----:|:----:|
-|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/220px-1C_Company_logo.svg.png" width="55px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1920px-Rustacean-orig-noshadow.svg.png" width="40px">||||
+|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/220px-1C_Company_logo.svg.png" width="55px" alt="1C">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1920px-Rustacean-orig-noshadow.svg.png" width="50px" alt="Rust">|<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/1024px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png" width="45px" alt="Delphi-Pascal">|||
 
 <h3># Knowledge</h3>
 
