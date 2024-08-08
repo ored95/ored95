@@ -13,8 +13,9 @@
 
 <h3># CodLang</h3>
 
-|<img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px" height="40px">|<img align="center" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" width="40px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" width="40px" height="40px" alt="Lisp">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/220px-1C_Company_logo.svg.png" width="55px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1920px-Rustacean-orig-noshadow.svg.png" width="40px">|
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|<img align="center" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px" height="40px">|<img align="center" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>|<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" width="40px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/120px-Lisp_logo.svg.png" width="40px" height="40px" alt="Lisp">|
+|:----:|:----:|:----:|:----:|:----:|
+|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/220px-1C_Company_logo.svg.png" width="55px">|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1920px-Rustacean-orig-noshadow.svg.png" width="40px">||||
 
 <h3># Knowledge</h3>
 
